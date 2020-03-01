@@ -1,6 +1,5 @@
 package com.pkg.binarytree;
 
-import com.pkg.linkedlist.Node;
 
 import java.util.LinkedList;
 import java.util.Queue;
